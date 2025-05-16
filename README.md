@@ -21,7 +21,7 @@ I build predictive models, clean datasets, and impactful dashboards that inform 
 
 ## 🧰 Tools & Technologies
 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/your-username/your-username/blob/main/python-projects.md)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/Chukwuebuka170/https://github.com/Chukwuebuka170/genetic-disorder-model-compariso/blob/main/python-projects.md))
 [![SQL](https://img.shields.io/badge/-SQL-0A0A0A?style=flat&logo=postgresql&logoColor=white)](https://github.com/your-username/your-username/blob/main/sql-projects.md)
 [![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://github.com/your-username/your-username/blob/main/excel-projects.md)
 [![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://github.com/your-username/your-username/blob/main/powerbi-projects.md)
