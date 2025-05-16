@@ -40,17 +40,3 @@ I build predictive models, clean datasets, and impactful dashboards that inform 
 ---
 
 *Always open to learning, collaboration, and solving meaningful problems with data.*
-
-
-
-| Tool | Projects |
-|------|----------|
-| 🐍 Python | [View](./https://github.com/Chukwuebuka170/genetic-disorder-model-comparison) |
-| 🛢️ SQL | [View](./
-https://github.com/Chukwuebuka170/Faith-Hospital-Healthcare-Analysis) |
-| 📗 Excel | [View](./excel-projects.md) |
-| 🟨 Power BI | [View](./powerbi-projects.md) |
-| 📊 Tableau | [View](./tableau-projects.md) |
-
-
-
