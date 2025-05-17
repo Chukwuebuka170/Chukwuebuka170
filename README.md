@@ -21,12 +21,11 @@ I build predictive models, clean datasets, and impactful dashboards that inform 
 
 ## 🚀 Featured Projects
 
-- 🏥 [Hospital Readmission Analysis (SQL + Tableau)](https://github.com/your-username/hospital-readmission)
-- 📊 [Sales Dashboard with Power BI](https://github.com/your-username/sales-dashboard-powerbi)
+
 - 🧮 [Facility Cost Optimization (Excel)](https://github.com/your-username/facility-optimization-excel)
 - 🔍 [SQL-Healthcare Analytics](https://github.com/Chukwuebuka170/Faith-Hospital-Healthcare-Analysis)
 - 🐍 [Python Model: Genetic Disorder Prediction](https://github.com/Chukwuebuka170/genetic-disorder-model-comparison)
-- 📈 [Chronic Illness Insights Dashboard (Tableau)](https://github.com/your-username/chronic-illness-tableau)
+
 
 
 ---
