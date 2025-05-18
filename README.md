@@ -24,7 +24,9 @@ I build predictive models, clean datasets, and impactful dashboards that inform 
 
 - 🧮 [Facility Cost Optimization (Excel)](https://github.com/your-username/facility-optimization-excel)
 - 🔍 [SQL-Healthcare Analytics](https://github.com/Chukwuebuka170/Faith-Hospital-Healthcare-Analysis)
-- 🐍 [Python Model: Genetic Disorder Prediction](https://github.com/Chukwuebuka170/genetic-disorder-model-comparison)
+- 🐍 [Python Model: Genetic Disorder Prediction]
+- (https://github.com/Chukwuebuka170/genetic-disorder-model-comparison)
+- (https://github.com/Chukwuebuka170/iFood-Customer-Analysis)
 
 
 
