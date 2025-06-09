@@ -1,9 +1,9 @@
+# 𝗗𝗮𝘁𝗮 𝗶𝘀 𝗲𝘃𝗲𝗿𝘆𝘄𝗵𝗲𝗿𝗲, 𝗯𝘂𝘁 𝗺𝗮𝗸𝗶𝗻𝗴 𝘀𝗲𝗻𝘀𝗲 𝗼𝗳 𝗶𝘁? 𝗧𝗵𝗮𝘁’𝘀 𝗺𝘆 𝘀𝗽𝗲𝗰𝗶𝗮𝗹𝘁𝘆.
 
-👨🏿‍💻 𝗖𝗵𝘂𝗸𝘄𝘂𝗲𝗯𝘂𝗸𝗮
 
-𝗗𝗮𝘁𝗮 𝗶𝘀 𝗲𝘃𝗲𝗿𝘆𝘄𝗵𝗲𝗿𝗲, 𝗯𝘂𝘁 𝗺𝗮𝗸𝗶𝗻𝗴 𝘀𝗲𝗻𝘀𝗲 𝗼𝗳 𝗶𝘁? 𝗧𝗵𝗮𝘁’𝘀 𝗺𝘆 𝘀𝗽𝗲𝗰𝗶𝗮𝗹𝘁𝘆.
+## Hello! 👋🏾 I'm Chukwuebuka 👨🏿‍💻
 
-Hello! I’m a 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 who loves turning confusing datasets into simple stories that help businesses and organizations make smarter decisions. I’ve worked across healthcare, sales, and facility management, always focusing on delivering insights that truly matter.
+I’m a 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 who loves turning confusing datasets into simple stories that help businesses and organizations make smarter decisions. I’ve worked across healthcare, sales, and facility management, always focusing on delivering insights that truly matter.
 
 𝗛𝗲𝗿𝗲’𝘀 𝗵𝗼𝘄 𝗜 𝗵𝗲𝗹𝗽:
 
