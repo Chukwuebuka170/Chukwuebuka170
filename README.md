@@ -1,13 +1,22 @@
-# 👋 Hi, I'm Chukwuebuka!
+𝗗𝗮𝘁𝗮 𝗶𝘀 𝗲𝘃𝗲𝗿𝘆𝘄𝗵𝗲𝗿𝗲, 𝗯𝘂𝘁 𝗺𝗮𝗸𝗶𝗻𝗴 𝘀𝗲𝗻𝘀𝗲 𝗼𝗳 𝗶𝘁? 𝗧𝗵𝗮𝘁’𝘀 𝗺𝘆 𝘀𝗽𝗲𝗰𝗶𝗮𝗹𝘁𝘆.
 
-I'm a passionate **Healthcare & Business Data Analyst** with a mission to turning raw data into powerful insights that drive better decisions and improve lives.
+Hello! I’m 𝗜'𝗺 𝗖𝗵𝘂𝗸𝘄𝘂𝗲𝗯𝘂𝗸𝗮, a 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 who loves turning confusing datasets into simple stories that help businesses and organizations make smarter decisions. I’ve worked across healthcare, sales, and facility management, always focusing on delivering insights that truly matter.
 
----
+𝗛𝗲𝗿𝗲’𝘀 𝗵𝗼𝘄 𝗜 𝗵𝗲𝗹𝗽:
 
-## 🎯 Mission
+➤ Cleaning and organizing data so it’s easy to understand
 
-My mission as a Data Analyst is to uncover meaningful insights from data to support better decisions in healthcare and business.  
-I build predictive models, clean datasets, and impactful dashboards that inform strategy and optimize outcomes.
+➤ Creating dashboards that make numbers come alive for everyone, not just data geeks
+
+➤ Working closely with teams to solve real-world problems with data
+
+𝗠𝘆 𝘁𝗼𝗼𝗹𝗸𝗶𝘁 𝗶𝗻𝗰𝗹𝘂𝗱𝗲𝘀: Python, SQL, Tableau, Excel and Power BI, plus a knack for translating technical jargon into everyday language.
+
+𝗪𝗵𝘆 𝗰𝗼𝗻𝗻𝗲𝗰𝘁?
+
+I believe data should be accessible to all. I enjoy helping teams grow their data skills and confidence so they can make informed choices faster.
+
+If you want data to tell your story in a clear, actionable way, let’s chat.
 
 ---
 
